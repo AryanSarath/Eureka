@@ -1,1 +1,2 @@
-# Eureka
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
